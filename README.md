@@ -1,4 +1,4 @@
-# Course projects from https://mlcourse.ai/book/index.html
+# Course projects from https://mlcourse.ai
 
 <p float="left">
   <img src="https://mlcourse.ai/_static/mlcourse_ai_logo.jpg" width="300" />
