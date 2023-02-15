@@ -5,7 +5,6 @@
 </p>
 
 
-
 mlcourse_ai,
 author = {Kashnitsky, Yury},
 title = {mlcourse.ai – Open Machine Learning Course},
