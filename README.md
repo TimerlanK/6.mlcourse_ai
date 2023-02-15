@@ -1,6 +1,10 @@
-Course projects from https://mlcourse.ai/book/index.html
+# Course projects from https://mlcourse.ai/book/index.html
 
-https://mlcourse.ai/_static/mlcourse_ai_logo.jpg
+<p float="left">
+  <img src="https://mlcourse.ai/_static/mlcourse_ai_logo.jpg" width="300" />
+</p>
+
+
 
 mlcourse_ai,
 author = {Kashnitsky, Yury},
